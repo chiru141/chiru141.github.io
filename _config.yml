@@ -1,6 +1,6 @@
 title: "Ruchi's Personal Blog"
 author: "Ruchi"
-description: ""
+# description: ""
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
