@@ -1,11 +1,12 @@
 ---
 title: "Reflecting on my MBA journey"
 layout: post
+excerpt_separator: <!--more-->
 ---
 
 They told me that MBA is protected environment, so experiment and try everything you want to - cause after that it will be real life. And I did exactly that. I opted for courses which were out of my comfort zone. I prioritised learning about people skills over academics (atleast I feel so).
 
-"\n\n\n"
+<!--more-->
 
 I rolled into my MBA journey while still working with my previous company as the classes and other fun activities of the batch began. I felt like I didn't really had an off time before joining a full-time 2 year course and was short on deciding what I wanted from the 2 years of student life that lay ahead. I knew that during my time at MBA I will have time to think about my future (as a few friends who had completed their MBA told me). First few months were about getting to know other 500+ students in the batch, preparing resumes and ourselves for the interviews. We started online (yes, covid) hence some classes felt exhausting - looking at screens for most part of the day after having looked at those same screens during the night for bonding exercises and/or projects. I liked getting to know people but online system seemed to come in my way. Going on campus in the middle of all this, meeting people we met online and preparing for summer internships - there was so much going on, all the time. It was stressful, sometimes felt meaningless but we kept going. It was our ambitions, our fear and our friends which kept us going. I know most of us could atleast name one person we depended on thorough it all. I know I can.
 
