@@ -1,12 +1,10 @@
 ---
-title: "Textile Manufacturing"
+title: "From the Textile Hub"
 layout: post
 excerpt_separator: <!--more-->
 ---
 
-I am from Surat, Gujarat - The textile city of the Country. Growing up in the city, I remember seeing cloth (white cloth called grey) manufacturing from cotton threads, and embroidery machines. I have seen texturizing machines which adds to the strength of the threads. However, my understanding of the industry has gaps. Big gaps. With some time in my hand and my presence in the city, I am looking forward to understand the industry a bit more.
-
-I intend to keep reading, learning and writing about the industry.
+I am from Surat, Gujarat - The textile hub of the Country. Growing up in the city, I remember seeing cloth (white cloth called grey) manufactured from cotton threads, and embroidery being done on machines. However, my understanding of the industry has gaps. Big gaps. With some time in my hand and my presence in the city, I am looking forward to understand the industry a bit more.
 
 <!--more-->
 
