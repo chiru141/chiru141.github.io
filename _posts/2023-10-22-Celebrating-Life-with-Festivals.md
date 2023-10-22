@@ -12,13 +12,16 @@ I wish to create a space where I could arrange every festival that is celebrated
 
 Before I figure out other pieces of the puzzle, I have decided to write about it.. and see if I can come up with something for each of the 365 days or at least 300 days of a year. 65 days could be for rest and play of the team. 
 
-Need to start adding calendar, do I? 
+(Need to add a calendar here, do I?)
 
-List of festivals: <TD: Add a table>
-1. Navratri                                               - 9 days
-2. Diwali (dhanteras, choti, badi diwali, bhai duj)       - 4 days
-3. Chhat                                                  - 2 days
-4. Christmas                                              - 2
-5. New Year                                               - 2
-6. Lohri + Uttarayan                                      - 2
-7. Holi                                                   - 2
+**Ashtami (Day 8 of Navratri):**
+
+Significance: 
+Parts of the country:
+Food:
+Attire:
+Rituals:
+Other:
+
+
+
