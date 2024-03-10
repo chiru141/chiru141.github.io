@@ -3,7 +3,7 @@ title: "Paintings"
 permalink: "/Paintings/"
 layout: page
 ---
-Painting has felt like meditiation to me - whenever my brain feels cloudy or I cannot seem to hold my pain I find myself seeking refuge in the art. I am not an original artist - I take inspiration from the internet, but that doesn't make the paintings/art expressionless. 
+Painting has felt like meditation to me - whenever my brain feels cloudy or I cannot seem to hold my pain I find myself seeking refuge in the art. I am not an original artist - I take inspiration from the internet, but that doesn't make the paintings/art expressionless. 
 
 This doesn't mean I only paint when I am feeling sad, but that most of the times I am painting - I am getting answers to the questions I didn't know I was asking.
 
