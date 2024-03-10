@@ -9,12 +9,18 @@ This doesn't mean I only paint when I am feeling sad, but that most of the times
 
 ![Painting 4: Krishna](/assets/Painting_Pictures/PXL_20240310_112623616_exported_1705_1710074062089.jpg)
 
-This is the longest I have ever took to finish any painting. 
+Krishna - This is the longest I have ever took to finish any painting. 
 
 Like you cannot put the extra color that you squeezed out of the tube on the canvas just cause you don't want to waste the paint, you cannot cry about the hard work/ effort that's going to "waste" cause you didn't see any direct results. it is about the painting you are creating and not what you had to put in. work with whatever you have. 
 
 ![Painting 3: Ganesha](/assets/Painting_Pictures/Ganesha.jpg)
 
+Ganesha
+
 ![Painting 2: Mira](/assets/Painting_Pictures/Mira.jpg)
 
+Meera 
+
 ![Painting 1: Goku](/assets/Goku.jpg)
+
+Goku 
