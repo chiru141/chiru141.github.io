@@ -9,7 +9,7 @@ This doesn't mean I only paint when I am feeling sad, but that most of the times
 
 ![Painting 6: Ganesha (Zentangle Art)](/assets/Painting_Pictures/PXL_20240602_052935925.jpg)
 
-[June 2024] Ganesha (yet again)
+[June 2024] Ganesha (Zentangle Art form)
 
 Even though, I thoroughly immersed myself in the process of bringing this piece to life, I cannot deny the occasional nagging I felt to stop "wasting" my time and do something productive or rather useful. 
 
