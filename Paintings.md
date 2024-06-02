@@ -11,6 +11,10 @@ This doesn't mean I only paint when I am feeling sad, but that most of the times
 
 [June 2024] Ganesha (yet again)
 
+Even though, I thoroughly immersed myself in the process of bringing this piece to life, I cannot deny the occasional nagging I felt to stop "wasting" my time and do something productive or rather useful. 
+
+Am i wasting my time, pursuing hobbies that don't seem particularly "useful" at the moment?
+
 ![Painting 5: Hanuman](assets/Painting_Pictures/PXL_20240602_151804775~2.jpg)
 
 [May 2024] Hanuman 
