@@ -6,7 +6,7 @@ excerpt_separator: <!--more-->
 
 In 2023, investment in the climate tech industry was $33.3Bn more than the total investment in the Indian start-up ecosystem, which stood at $11.3Bn.
 
-But is the growth of climate-Tech driven by pure consumer preferences or government policies and incentives?
+But is the growth of climate-tech driven by pure consumer preferences or government policies and incentives?
 
 <!--more-->
 
