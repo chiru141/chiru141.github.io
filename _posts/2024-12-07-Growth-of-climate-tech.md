@@ -14,7 +14,7 @@ While CoP-29 signals low commitment of governments, businesses and societies at 
 
 Recently, I had an opportunity to speak with a VC in the climate-tech space. He asked me why I was interested in this space. I explained that I was led to this space in 2020 while being concerned about the tonnes of waste that we are generating. Then, the growing energy demands and the urgency to identify renewable energy sources to meet that demand caught my attention. I shared how I think that our current economic metrics conflict with sustainability goals and hence there's a need to redefine how nations and companies measure success including the success of various sustainability-related initiatives.
 
-The VC, however, conceded that he had a capitalist perspective and emphasized that the profit potential of investments is driven by customer demand. 
+The VC, however, conceded that he had a capitalist perspective and emphasized that the profit potential of investments is driven by customer demand like demand for sustainable textiles, packaging and fast charging for e-vehicles. 
 
 While I appreciate his view, I argue that the primary driver of demand in climate tech remains government regulations and incentives. These come in various forms, such as subsidies to lower initial costs for technologies like electric vehicles (EVs), increased lifestyle choices (think: sustainable clothing), or entirely new experiences that entice consumers (electric vertical takeoff and landing vehicles [eVTOLs] designed for Passenger mobility).
 
