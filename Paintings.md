@@ -7,6 +7,10 @@ Painting has felt like meditation to me - whenever my brain feels cloudy or I ca
 
 This doesn't mean I only paint when I am feeling sad, but that most of the times I am painting - I am getting answers to the questions I didn't know I was asking.
 
+![Painting 7: Krishna ki Chetavani from Rashmirathi](/assets/Painting_Pictures/Rashmirathi.jpg)
+
+[September 2024]  Krishna ki Chetavani from Rashmirathi 
+
 ![Painting 6: Ganesha (Zentangle Art)](/assets/Painting_Pictures/PXL_20240602_052935925.jpg)
 
 [June 2024] Ganesha (Zentangle Art form)
