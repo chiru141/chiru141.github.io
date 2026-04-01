@@ -1,0 +1,67 @@
+---
+layout: post
+title: "India's AI Boom is Here. Is Our Government and Neighbourhood Ready?"
+date: 2026-04-01
+categories: [energy, policy, climate]
+---
+
+*Ruchi Agarwal — April 2026*
+
+In December 2025, I had noted how Finland is using heat from data centres to power homes. How India is looking at increasing water scarcity threat in already water stressed areas.
+
+Looks like CEEW already is saying what I was trying to articulate. India needs an *integrated policy to transform the data centre boom from potential environmental and economic liability into a sustainable and a strategic national asset.* \[[CEEW, 2026](https://www.ceew.in/blogs/why-is-water-based-cooling-a-big-issue-for-ai-data-centres-in-india)\]
+
+**Three data points and three questions:**
+
+---
+
+Data centres are enormous power consumers — electricity demand from data centres is projected to increase nearly fivefold by 2030. \[[CEEW, 2026](https://www.ceew.in/blogs/why-is-water-based-cooling-a-big-issue-for-ai-data-centres-in-india)\]
+
+*But here's a question — **what if that waste heat wasn't wasted?***
+
+Finland already does it. South Korea does it. A data centre in Seoul heats thousands of apartments. \[[Bird & Bird, 2025](https://www.twobirds.com/en/insights/2025/cooling-the-cloud-a-focus-on-the-water-usage-of-data-centres)\]
+
+India is building these facilities right now, at scale, without any requirement to recover the heat they generate. \[[CBC News, 2026](https://www.cbc.ca/news/world/india-ai-data-centres-water-energy-9.7099293)\]
+
+***Can we build it in as we build our data centres from scratch?***
+
+---
+
+163 million Indians don't have reliable clean water — yet data centres often use clean drinking water to protect their equipment. \[[Outlook India, 2026](https://www.outlookindia.com/national/ai-impact-summit-2026-water-stress-from-data-centres-a-cause-for-concern)\]
+
+Cooling a single 100 MW hyperscale facility can require around 2 million litres of water per day — and India's data centre water use is projected to more than double by 2030. \[[CEEW-Systemiq, 2026](https://www.systemiq.earth/wp-content/uploads/2026/02/Scaling-Indias-Data-Centre-Ecosystem.pdf)\]
+
+At 135 litres per person per day, that single data centre consumes the daily water needs of roughly 15,000 people. Every single day. \[[Ministry of Housing & Urban Affairs](https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1604871)\]
+
+And India's data centre water use is projected to more than double by 2030. \[[CEEW, 2026](https://www.ceew.in/blogs/why-is-water-based-cooling-a-big-issue-for-ai-data-centres-in-india)\]
+
+***Why are we using clean water instead of treated water?***
+
+Some companies have started using treated water — so it means it's not undoable, just costly. \[[Amazon Sustainability](https://sustainability.aboutamazon.com/stories/how-aws-uses-recycled-water-in-data-centers); [The Star, 2026](https://thestar.co.za/news/environment/2026-02-11-why-are-ai-data-centres-using-fresh-drinking-water-instead-of-recycled-water/)\]
+
+***But costlier than drinking unportable water?***
+
+---
+
+Cooling systems, generators, HVAC units running 24/7. No national noise standards specific to data centres. No siting rules that create buffer zones between facilities and residential areas. State governments so eager for investment they're not asking the right questions. \[[CBC News, 2026](https://www.cbc.ca/news/world/india-ai-data-centres-water-energy-9.7099293)\]
+
+Imagine living across the road from 3 different data centres and a buzz sound staying with you. After a time, either you stop hearing it or want that white noise everywhere you go.
+
+***What are we doing about the noise? And why is no one asking?***
+
+---
+
+I am not anti-growth. I am pro-growth done right. The AI excitement is real. The investment is coming regardless. The question is whether India builds this infrastructure intelligently — or allows it to go out of hand, and compete with the resource needed for basic survival.
+
+---
+
+**References**
+
+1. [CEEW (2026). Why Is Water-Based Cooling a Big Issue for AI Data Centres in India?](https://www.ceew.in/blogs/why-is-water-based-cooling-a-big-issue-for-ai-data-centres-in-india)
+2. [CEEW & Systemiq (2026). Scaling India's Data Centre Ecosystem.](https://www.systemiq.earth/wp-content/uploads/2026/02/Scaling-Indias-Data-Centre-Ecosystem.pdf)
+3. [Outlook India (2026). AI Impact Summit 2026: Water Stress From Data Centres A Cause For Concern.](https://www.outlookindia.com/national/ai-impact-summit-2026-water-stress-from-data-centres-a-cause-for-concern)
+4. [CBC News (2026). India is going all-in on AI data centres. The environmental costs will have to wait.](https://www.cbc.ca/news/world/india-ai-data-centres-water-energy-9.7099293)
+5. [Ministry of Housing & Urban Affairs, Government of India. Per Capita Availability of Water.](https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1604871)
+6. [Amazon Sustainability. How AWS uses recycled water in data centers.](https://sustainability.aboutamazon.com/stories/how-aws-uses-recycled-water-in-data-centers)
+7. [The Star (2026). Why are AI data centres using fresh drinking water instead of recycled water?](https://thestar.co.za/news/environment/2026-02-11-why-are-ai-data-centres-using-fresh-drinking-water-instead-of-recycled-water/)
+8. [Bird & Bird (2025). Cooling the cloud: A focus on the water usage of data centres.](https://www.twobirds.com/en/insights/2025/cooling-the-cloud-a-focus-on-the-water-usage-of-data-centres)
