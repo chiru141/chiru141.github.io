@@ -3,6 +3,7 @@ layout: post
 title: "India's AI Boom is Here. Is Our Government and Neighbourhood Ready?"
 date: 2026-04-01
 categories: [energy, policy, climate]
+excerpt_separator: <!--more-->
 ---
 
 *Ruchi Agarwal — April 2026*
@@ -13,6 +14,7 @@ Looks like CEEW already is saying what I was trying to articulate. India needs a
 
 **Three data points and three questions:**
 
+<!--more-->
 ---
 
 Data centres are enormous power consumers — electricity demand from data centres is projected to increase nearly fivefold by 2030. \[[CEEW, 2026](https://www.ceew.in/blogs/why-is-water-based-cooling-a-big-issue-for-ai-data-centres-in-india)\]
