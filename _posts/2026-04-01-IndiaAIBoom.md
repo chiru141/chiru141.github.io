@@ -19,7 +19,7 @@ Data centres are enormous power consumers — electricity demand from data centr
 
 *But here's a question — **what if that waste heat wasn't wasted?***
 
-Finland already does it. South Korea does it. A data centre in Seoul heats thousands of apartments. \[[Bird & Bird, 2025](https://www.twobirds.com/en/insights/2025/cooling-the-cloud-a-focus-on-the-water-usage-of-data-centres)\]
+Finland is already using it. South Korea reuses it. A data centre in Seoul heats thousands of apartments. \[[Bird & Bird, 2025](https://www.twobirds.com/en/insights/2025/cooling-the-cloud-a-focus-on-the-water-usage-of-data-centres)\]
 
 India is building these facilities right now, at scale, without any requirement to recover the heat they generate. \[[CBC News, 2026](https://www.cbc.ca/news/world/india-ai-data-centres-water-energy-9.7099293)\]
 
