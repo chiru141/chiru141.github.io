@@ -6,8 +6,6 @@ categories: [energy, policy, climate]
 excerpt_separator: <!--more-->
 ---
 
-*Ruchi Agarwal — April 2026*
-
 In December 2025, I had noted how Finland is using heat from data centres to power homes. How India is looking at increasing water scarcity threat in already water stressed areas.
 
 Looks like CEEW already is saying what I was trying to articulate. India needs an *integrated policy to transform the data centre boom from potential environmental and economic liability into a sustainable and a strategic national asset.* \[[CEEW, 2026](https://www.ceew.in/blogs/why-is-water-based-cooling-a-big-issue-for-ai-data-centres-in-india)\]
