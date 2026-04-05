@@ -2,6 +2,7 @@
 layout: post
 title: "We're All Chasing Growth. But Whose?"
 date: 2026-04-05
+categories: [growth, policy]
 excerpt_separator: <!--more-->
 ---
 
@@ -21,7 +22,7 @@ A year back, when I was asking a similar -- or an adjacent -- question: is GDP g
 
 GDP is insufficient on its own. Instead, progress should be measured through a nuanced combination of metrics tailored to a country's specific developmental phase.
 
-So, while the current Prime Minister of the country envisions India as a developed nation by 2047, I hope his team understands that what he means by growth is -- water access for all, electricity access for all, and the privilege to fail and faith in the system.
+So, while the current Prime Minister of the country envisions India as a developed nation by 2047, I hope his team understands that what he means by growth is -- water access for all, electricity access for all, the privilege to fail and faith in the system.
 
 ---
 
