@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 
 While working on a strategy exercise to identify growth levers for a state government, I reached a surprising conclusion: data centres could be a primary engine for 10x growth.
 
-While I know I am pro-growth, I am also pro-sustainability. I particularly dislike open skylines being replaced by the view of tall buildings with big windows or advertisements. While I agree India needs infrastructure like hyperscalers and colocation to drive the growth it so excitedly aspires for, I am also advocating an integrated policy to ensure the growth is aligned with urban sustainability.
+While I know I am pro-sustainability, I am equally pro-growth. I particularly dislike open skylines being replaced by the view of tall buildings with big windows or advertisements. While I agree India needs infrastructure like hyperscalers and colocation to drive the growth it so excitedly aspires for, I am also advocating an integrated policy to ensure the growth is aligned with urban sustainability.
 
 All this thought brought me back to the question -- why is everyone, all of us, chasing growth? Not just for-profit companies, but governments, non-profit organizations, and also individuals like me... including me. We are all chasing growth.
 
