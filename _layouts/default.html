@@ -17,12 +17,6 @@
                 <a href="{{ "/about.html" | relative_url }}" {% if page.url contains "about" %}class="active"{% endif %}>About</a>
             </div>
         </nav>
-        {% if page.url == "/" %}
-        <div class="hero">
-            <h1>Welcome.</h1>
-            <p class="serif-italic">{{ site.description }}</p>
-        </div>
-        {% endif %}
     </header>
 
     <main class="container">

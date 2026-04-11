@@ -76,17 +76,7 @@ body {
     color: var(--ink);
 }
 
-/* 2) FIX: Welcome made smaller and more elegant */
-.hero h1 {
-    font-family: var(--display);
-    font-size: clamp(3rem, 8vw, 5.5rem); /* Much smaller than before */
-    line-height: 1;
-    letter-spacing: -0.04em;
-    margin-bottom: 1rem;
-    font-weight: 700;
-}
-
-/* 4) FIX: Search bar polished and unbroken */
+/* Search bar */
 .search-container {
     margin-top: 2rem;
     margin-bottom: 5rem;
@@ -139,5 +129,4 @@ body {
 @media (max-width: 900px) {
     .door-grid { grid-template-columns: 1fr; }
     .site-header { padding-top: calc(5rem + env(safe-area-inset-top, 0px)); }
-    .hero h1 { font-size: 3.5rem; }
 }
