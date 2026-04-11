@@ -2,11 +2,7 @@
 layout: default
 ---
 
-<div class="search-container">
-    <input type="text" id="searchInput" placeholder="Search ideas, tags, or notes..." onkeyup="searchDoors()">
-</div>
-
-<div class="door-grid" id="doorGrid">
+<div class="door-grid">
     <!-- Door 1: Industrial -->
     <a href="{{ "/category/industrial/" | relative_url }}" class="door-link">
         <div class="door" data-title="Industrial & Policy" data-content="Deconstructing the machinery of state and industry. How we build the physical world." data-tags="Strategy Energy Climate Tech">
@@ -99,24 +95,3 @@ layout: default
         </div>
     {% endfor %}
 </section>
-
-<script>
-    function searchDoors() {
-        const input = document.getElementById('searchInput');
-        const filter = input.value.toLowerCase();
-        const grid = document.getElementById('doorGrid');
-        const doors = grid.getElementsByClassName('door');
-
-        for (let i = 0; i < doors.length; i++) {
-            const title = doors[i].getAttribute('data-title').toLowerCase();
-            const content = doors[i].getAttribute('data-content').toLowerCase();
-            const tags = doors[i].getAttribute('data-tags').toLowerCase();
-            
-            if (title.includes(filter) || content.includes(filter) || tags.includes(filter)) {
-                doors[i].parentElement.style.display = "";
-            } else {
-                doors[i].parentElement.style.display = "none";
-            }
-        }
-    }
-</script>

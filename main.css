@@ -34,7 +34,7 @@ body {
 /* Site shell: scoped so in-article <header> blocks are not affected */
 .site-header {
     padding-top: calc(var(--header-top-inset) + env(safe-area-inset-top, 0px));
-    padding-bottom: 4rem;
+    padding-bottom: 1.5rem;
 }
 
 .site-header nav {
@@ -43,7 +43,7 @@ body {
     align-items: baseline;
     gap: 1.5rem;
     padding-block: 0.5rem;
-    margin-bottom: 6rem;
+    margin-bottom: 2rem;
 }
 
 .nav-links {
@@ -78,46 +78,21 @@ body {
     color: var(--ink);
 }
 
-/* Search bar */
-.search-container {
-    margin-top: 2rem;
-    margin-bottom: 5rem;
-    border-bottom: 1px solid var(--border);
-    max-width: 400px;
-}
-
-#searchInput {
-    width: 100%;
-    padding: 0.8rem 0;
-    border: none;
-    background: transparent;
-    font-family: var(--sans);
-    font-size: 1rem;
-    color: var(--ink);
-    outline: none;
-}
-
-#searchInput::placeholder {
-    color: var(--muted);
-    font-style: italic;
-    opacity: 0.7;
-}
-
 /* Grid and Door Styling */
 .door-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 2rem;
+    gap: 1.25rem;
     margin-bottom: 8rem;
 }
 
 .door {
-    padding: 3rem 2rem;
+    padding: 2rem 1.5rem;
     height: 100%;
-    min-height: 400px;
+    min-height: 280px;
     display: flex;
     flex-direction: column;
-    border-radius: 1.5rem;
+    border-radius: 1rem;
     border: 1px solid var(--border);
     transition: all 0.4s ease;
 }
