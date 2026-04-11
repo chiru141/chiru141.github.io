@@ -78,34 +78,9 @@ body {
     color: var(--ink);
 }
 
-/* Grid and Door Styling */
-.door-grid {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 1.25rem;
-    margin-bottom: 8rem;
-}
-
-.door {
-    padding: 2rem 1.5rem;
-    height: 100%;
-    min-height: 280px;
-    display: flex;
-    flex-direction: column;
-    border-radius: 1rem;
-    border: 1px solid var(--border);
-    transition: all 0.4s ease;
-}
-
-.door:hover {
-    background-color: var(--hover-bg);
-    transform: translateY(-5px);
-    border-color: var(--ink);
-}
-
 /* Chronological archive (home) */
 .archive-section {
-    margin-top: 4rem;
+    margin-top: 0;
 }
 
 .section-label {
@@ -178,9 +153,9 @@ body {
     font-size: 0.875rem;
     color: var(--muted);
     font-weight: 400;
+    font-style: italic;
 }
 
 @media (max-width: 900px) {
-    .door-grid { grid-template-columns: 1fr; }
     .site-header { padding-top: calc(var(--header-top-inset-mobile) + env(safe-area-inset-top, 0px)); }
 }
