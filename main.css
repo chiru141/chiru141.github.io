@@ -20,29 +20,26 @@ body {
     font-family: var(--sans);
     line-height: 1.6;
     -webkit-font-smoothing: antialiased;
-    overflow-x: hidden; /* Prevents horizontal scroll on mobile */
+    overflow-x: hidden;
 }
 
-/* Centering and Padding Fix */
 .container {
-    max-width: 1200px;
+    max-width: 1100px;
     margin: 0 auto;
-    padding: 0 5%; /* Flexible padding for all screens */
+    padding: 0 2rem;
 }
 
-/* Header & Nav Fixes */
+/* 1) FIX: Increased space from top of browser */
 header {
-    padding-top: 4rem;
+    padding-top: 6rem; /* Substantial breath at the top */
     padding-bottom: 4rem;
 }
 
 nav {
     display: flex;
     justify-content: space-between;
-    align-items: center;
-    margin-bottom: 4rem;
-    flex-wrap: wrap; /* Wraps menu items on small phones */
-    gap: 1rem;
+    align-items: baseline;
+    margin-bottom: 6rem;
 }
 
 .logo {
@@ -51,88 +48,77 @@ nav {
     text-decoration: none;
     color: var(--ink);
     letter-spacing: -0.05em;
-    font-size: 1.1rem;
+    font-size: 1.25rem;
     text-transform: uppercase;
-}
-
-.nav-links {
-    display: flex;
-    gap: 1.5rem;
 }
 
 .nav-links a {
     text-decoration: none;
     color: var(--muted);
-    font-size: 0.7rem;
+    font-size: 0.75rem;
     text-transform: uppercase;
-    letter-spacing: 0.1em;
+    letter-spacing: 0.15em;
     font-weight: 600;
-    transition: opacity 0.3s;
+    margin-left: 2.5rem;
+    transition: color 0.3s;
 }
 
 .nav-links a.active, .nav-links a:hover {
     color: var(--ink);
-    opacity: 1;
 }
 
-/* Hero Section: Fluid Typography */
+/* 2) FIX: Welcome made smaller and more elegant */
 .hero h1 {
     font-family: var(--display);
-    /* Scales between 3.5rem and 8rem based on screen size */
-    font-size: clamp(3.5rem, 10vw, 8rem); 
-    line-height: 0.9;
-    letter-spacing: -0.05em;
-    margin-bottom: 1.5rem;
+    font-size: clamp(3rem, 8vw, 5.5rem); /* Much smaller than before */
+    line-height: 1;
+    letter-spacing: -0.04em;
+    margin-bottom: 1rem;
     font-weight: 700;
 }
 
-.serif-italic {
-    font-style: italic;
-    font-size: clamp(1.1rem, 3vw, 1.5rem);
-    color: var(--muted);
-    max-width: 600px;
-    line-height: 1.4;
+/* 4) FIX: Search bar polished and unbroken */
+.search-container {
+    margin-top: 2rem;
+    margin-bottom: 5rem;
+    border-bottom: 1px solid var(--border);
+    max-width: 400px;
 }
 
-/* Door Grid: Responsive Layout */
+#searchInput {
+    width: 100%;
+    padding: 0.8rem 0;
+    border: none;
+    background: transparent;
+    font-family: var(--sans);
+    font-size: 1rem;
+    color: var(--ink);
+    outline: none;
+}
+
+#searchInput::placeholder {
+    color: var(--muted);
+    font-style: italic;
+    opacity: 0.7;
+}
+
+/* Grid and Door Styling */
 .door-grid {
     display: grid;
-    /* 3 columns on desktop, 1 on mobile */
     grid-template-columns: repeat(3, 1fr);
-    gap: 1.5rem;
-    margin: 4rem 0 8rem;
-}
-
-@media (max-width: 1024px) {
-    .door-grid {
-        grid-template-columns: repeat(2, 1fr); /* 2 columns for iPads */
-    }
-}
-
-@media (max-width: 768px) {
-    .door-grid {
-        grid-template-columns: 1fr; /* 1 column for phones */
-    }
-}
-
-.door-link {
-    text-decoration: none;
-    color: inherit;
-    display: block;
-    height: 100%;
+    gap: 2rem;
+    margin-bottom: 8rem;
 }
 
 .door {
-    padding: 2.5rem;
+    padding: 3rem 2rem;
     height: 100%;
-    min-height: 380px;
+    min-height: 400px;
     display: flex;
     flex-direction: column;
-    justify-content: flex-start;
+    border-radius: 1.5rem;
+    border: 1px solid var(--border);
     transition: all 0.4s ease;
-    border-radius: 1rem;
-    border: 1px solid var(--border); /* Added subtle border */
-    background-color: transparent;
 }
 
 .door:hover {
@@ -141,70 +127,8 @@ nav {
     border-color: var(--ink);
 }
 
-.num {
-    font-family: monospace;
-    font-size: 0.7rem;
-    color: var(--muted);
-    margin-bottom: 2rem;
-}
-
-.door h2 {
-    font-size: 1.5rem;
-    line-height: 1.2;
-    margin-bottom: 1rem;
-    font-weight: 600;
-}
-
-.door p {
-    font-size: 0.9rem;
-    color: var(--muted);
-    margin-top: auto; /* Pushes description to bottom */
-}
-
-/* Post List / Archive Fixes */
-.post-item {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 1.2rem 0;
-    border-bottom: 1px solid var(--border);
-    gap: 1rem;
-}
-
-.post-link {
-    font-size: clamp(1rem, 2vw, 1.1rem);
-    color: var(--ink);
-    text-decoration: none;
-    flex-grow: 1;
-}
-
-.post-date {
-    font-family: monospace;
-    font-size: 0.75rem;
-    color: var(--muted);
-    white-space: nowrap;
-}
-
-/* Footer Fixes */
-footer {
-    border-top: 1px solid var(--border);
-    padding: 4rem 0;
-    margin-top: 6rem;
-}
-
-.footer-content {
-    display: flex;
-    justify-content: space-between;
-    gap: 2rem;
-    flex-wrap: wrap;
-}
-
-@media (max-width: 600px) {
-    .footer-content {
-        flex-direction: column;
-        text-align: center;
-    }
-    .footer-meta {
-        justify-content: center;
-    }
+@media (max-width: 900px) {
+    .door-grid { grid-template-columns: 1fr; }
+    header { padding-top: 4rem; }
+    .hero h1 { font-size: 3.5rem; }
 }
