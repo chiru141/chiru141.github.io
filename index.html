@@ -1,10 +1,122 @@
 ---
 layout: default
-title: "Home"
 ---
 
-{% if site.show_excerpts %}
-  {% include home.html %}
-{% else %}
-  {% include archive.html title="Posts" %}
-{% endif %}
+<div class="search-container">
+    <input type="text" id="searchInput" placeholder="Search ideas, tags, or notes..." onkeyup="searchDoors()">
+</div>
+
+<div class="door-grid" id="doorGrid">
+    <!-- Door 1: Industrial -->
+    <a href="{{ "/category/industrial/" | relative_url }}" class="door-link">
+        <div class="door" data-title="Industrial & Policy" data-content="Deconstructing the machinery of state and industry. How we build the physical world." data-tags="Strategy Energy Climate Tech">
+            <div class="door-header">
+                <span class="num">01</span>
+            </div>
+            <h2>Industrial & Policy</h2>
+            <div class="tags">
+                {% assign industrial_tags = "" | split: "," %}
+                {% for post in site.categories['industrial'] %}
+                    {% for tag in post.tags %}
+                        {% unless industrial_tags contains tag %}
+                            {% assign industrial_tags = industrial_tags | push: tag %}
+                        {% endunless %}
+                    {% endfor %}
+                {% endfor %}
+                {% for tag in industrial_tags limit:4 %}
+                    <span>{{ tag }}</span>
+                {% endfor %}
+            </div>
+            <p>Deconstructing the machinery of state and industry. How we build the physical world.</p>
+        </div>
+    </a>
+
+    <!-- Door 2: Art -->
+    <a href="{{ "/category/culture/" | relative_url }}" class="door-link">
+        <div class="door" data-title="Art & Culture" data-content="The visual language of progress. Finding beauty in the built environment." data-tags="Paintings Urbanism Skylines">
+            <div class="door-header">
+                <span class="num">02</span>
+            </div>
+            <h2>Art & Culture</h2>
+            <div class="tags">
+                {% assign culture_tags = "" | split: "," %}
+                {% for post in site.categories['culture'] %}
+                    {% for tag in post.tags %}
+                        {% unless culture_tags contains tag %}
+                            {% assign culture_tags = culture_tags | push: tag %}
+                        {% endunless %}
+                    {% endfor %}
+                {% endfor %}
+                {% for tag in culture_tags limit:4 %}
+                    <span>{{ tag }}</span>
+                {% endfor %}
+            </div>
+            <p>The visual language of progress. Finding beauty in the built environment.</p>
+        </div>
+    </a>
+
+    <!-- Door 3: Notes -->
+    <a href="{{ "/category/notes/" | relative_url }}" class="door-link">
+        <div class="door" data-title="Notes & Reflections" data-content="Synthesizing knowledge across disciplines. The internal garden of the mind." data-tags="Books Philosophy MBA Life">
+            <div class="door-header">
+                <span class="num">03</span>
+            </div>
+            <h2>Notes & Reflections</h2>
+            <div class="tags">
+                {% assign notes_tags = "" | split: "," %}
+                {% for post in site.categories['notes'] %}
+                    {% for tag in post.tags %}
+                        {% unless notes_tags contains tag %}
+                            {% assign notes_tags = notes_tags | push: tag %}
+                        {% endunless %}
+                    {% endfor %}
+                {% endfor %}
+                {% for tag in notes_tags limit:4 %}
+                    <span>{{ tag }}</span>
+                {% endfor %}
+            </div>
+            <p>Synthesizing knowledge across disciplines. The internal garden of the mind.</p>
+        </div>
+    </a>
+</div>
+
+<section class="archive-section">
+    <h3 class="section-label">All Essays & Posts</h3>
+    
+    {% assign postsByYear = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+    {% for year in postsByYear %}
+        <div class="archive-year">
+            <h4 class="year-label">{{ year.name }}</h4>
+            <ul class="post-list">
+                {% for post in year.items %}
+                    <li class="post-item">
+                        <span class="post-date">{{ post.date | date: "%b %d" }}</span>
+                        <a href="{{ post.url | relative_url }}" class="post-link">{{ post.title }}</a>
+                        <span class="post-category">({{ post.category }})</span>
+                    </li>
+                {% endfor %}
+            </ul>
+        </div>
+    {% endfor %}
+</section>
+
+<script>
+    function searchDoors() {
+        const input = document.getElementById('searchInput');
+        const filter = input.value.toLowerCase();
+        const grid = document.getElementById('doorGrid');
+        const doors = grid.getElementsByClassName('door');
+
+        for (let i = 0; i < doors.length; i++) {
+            const title = doors[i].getAttribute('data-title').toLowerCase();
+            const content = doors[i].getAttribute('data-content').toLowerCase();
+            const tags = doors[i].getAttribute('data-tags').toLowerCase();
+            
+            if (title.includes(filter) || content.includes(filter) || tags.includes(filter)) {
+                doors[i].parentElement.style.display = "";
+            } else {
+                doors[i].parentElement.style.display = "none";
+            }
+        }
+    }
+</script>
