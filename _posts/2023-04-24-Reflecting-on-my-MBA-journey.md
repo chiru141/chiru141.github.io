@@ -1,6 +1,8 @@
 ---
 title: "Reflecting on my MBA journey"
 layout: post
+categories: [reflection]
+tags: [MBA, reflection]
 excerpt_separator: <!--more-->
 ---
 

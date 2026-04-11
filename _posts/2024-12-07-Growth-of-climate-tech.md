@@ -1,6 +1,8 @@
 ---
 title: "The Growth of Climate Tech: Driven by Policy or Profit?"
 layout: post
+categories: [tech]
+tags: [tech, climate]
 excerpt_separator: <!--more-->
 ---
 

@@ -1,6 +1,8 @@
 ---
-title: "Competing with e-commerce"
+title: "Will local kirana stores cease to exist as competition from hyper-local commerce increases?"
 layout: post
+categories: [tech]
+tags: [quick-commerce]
 excerpt_separator: <!--more-->
 ---
 

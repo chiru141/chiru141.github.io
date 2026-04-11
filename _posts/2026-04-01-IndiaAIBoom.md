@@ -2,7 +2,8 @@
 layout: post
 title: "India's AI Boom is Here. Is Our Government and Neighbourhood Ready?"
 date: 2026-04-01
-categories: [energy, policy, climate]
+categories: [energy, policy, tech]
+tags: [energy, data centres, policy, water, noise]
 excerpt_separator: <!--more-->
 ---
 

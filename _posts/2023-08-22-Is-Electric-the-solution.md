@@ -1,6 +1,8 @@
 ---
-title: "Electronics: Solution or new Problem?"
+title: "Are EVs the solution to our pollution problems or we creating a new problem?"
 layout: post
+categories: [tech]
+tags: [EV, E-waste, sustainable fuel]
 excerpt_separator: <!--more-->
 ---
 

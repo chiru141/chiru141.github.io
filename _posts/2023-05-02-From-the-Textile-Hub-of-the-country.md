@@ -1,6 +1,8 @@
 ---
-title: "From the Textile Hub"
+title: "Closing the Gaps: A Journey Through the Surat Textile Industry"
 layout: post
+categories: [notes]
+tags: [textile, waste]
 excerpt_separator: <!--more-->
 ---
 

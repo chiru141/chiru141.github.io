@@ -1,6 +1,7 @@
 ---
 title: "Starting Somewhere"
 layout: post
+categories: [notes]
 ---
 
 "I want to get it right, until I am fully prepared I won't start" - what we also call procastinating, I have been there, done that more than once. 

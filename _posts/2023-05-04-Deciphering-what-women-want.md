@@ -1,6 +1,8 @@
 ---
-title: "Deciphering what Women want"
+title: "A Question of Stability: The Hidden Costs of the Patriarchal Deal"
 layout: post
+categories: [notes, reflection]
+tags: [patriarchy, questioning]
 excerpt_separator: <!--more-->
 ---
 
