@@ -13,11 +13,11 @@
             <a href="{{ "/" | relative_url }}" class="logo">{{ site.title | uppercase }}</a>
             <div class="nav-links">
                 <a href="{{ "/" | relative_url }}" {% if page.url == "/" %}class="active"{% endif %}>Home</a>
-                <a href="{{ "/category/industrial/" | relative_url }}" {% if page.url contains "/category/industrial" %}class="active"{% endif %}>Industrial &amp; Policy</a>
+                <a href="{{ "/category/industrial/" | relative_url }}" {% if page.url contains "/category/industrial" %}class="active"{% endif %}>Tech &amp; Policy</a>
                 <a href="{{ "/category/culture/" | relative_url }}" {% if page.url contains "/category/culture" %}class="active"{% endif %}>Art &amp; Culture</a>
                 <a href="{{ "/category/notes/" | relative_url }}" {% if page.url contains "/category/notes" %}class="active"{% endif %}>Notes &amp; Reflections</a>
                 <a href="{{ "/problem-stack.html" | relative_url }}" {% if page.url contains "problem-stack" %}class="active"{% endif %}>Problem Stack</a>
-                <a href="{{ "/about.html" | relative_url }}" {% if page.url contains "about" %}class="active"{% endif %}>About</a>
+                <a href="{{ "/about/" | relative_url }}" {% if page.url contains "about" %}class="active"{% endif %}>About</a>
             </div>
         </nav>
     </header>
