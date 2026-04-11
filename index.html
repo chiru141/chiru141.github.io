@@ -87,8 +87,12 @@ layout: default
                 {% for post in year.items %}
                     <li class="post-item">
                         <span class="post-date">{{ post.date | date: "%b %d" }}</span>
-                        <a href="{{ post.url | relative_url }}" class="post-link">{{ post.title }}</a>
-                        <span class="post-category">({{ post.category }})</span>
+                        <span class="post-main">
+                            <a href="{{ post.url | relative_url }}" class="post-link">{{ post.title }}</a>
+                            {% if post.categories != empty %}
+                            <span class="post-category">({% for c in post.categories %}{{ c | capitalize }}{% unless forloop.last %}, {% endunless %}{% endfor %})</span>
+                            {% endif %}
+                        </span>
                     </li>
                 {% endfor %}
             </ul>

@@ -103,6 +103,83 @@ body {
     border-color: var(--ink);
 }
 
+/* Chronological archive (home) */
+.archive-section {
+    margin-top: 4rem;
+}
+
+.section-label {
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.3em;
+    color: var(--muted);
+    margin-bottom: 2.5rem;
+    font-weight: 700;
+}
+
+.archive-year:not(:first-child) {
+    margin-top: 2.75rem;
+}
+
+.year-label {
+    font-size: 1.35rem;
+    font-weight: 700;
+    margin: 0 0 0.75rem;
+    color: var(--ink);
+    letter-spacing: -0.02em;
+}
+
+.post-list {
+    list-style: none;
+}
+
+.post-item {
+    display: flex;
+    align-items: baseline;
+    gap: 1.5rem;
+    padding: 0.65rem 0;
+    border-bottom: 1px solid var(--border);
+}
+
+.post-list li:last-child {
+    border-bottom: none;
+}
+
+.post-date {
+    font-family: ui-monospace, monospace;
+    font-size: 0.75rem;
+    color: var(--muted);
+    width: 3.5rem;
+    flex-shrink: 0;
+}
+
+.post-main {
+    flex: 1;
+    min-width: 0;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.35rem;
+}
+
+.post-link {
+    font-size: 1.125rem;
+    color: var(--ink);
+    text-decoration: none;
+    font-weight: 400;
+}
+
+.post-link:hover {
+    text-decoration: underline;
+    text-underline-offset: 4px;
+}
+
+.post-category {
+    font-size: 0.875rem;
+    color: var(--muted);
+    font-weight: 400;
+}
+
 @media (max-width: 900px) {
     .door-grid { grid-template-columns: 1fr; }
     .site-header { padding-top: calc(var(--header-top-inset-mobile) + env(safe-area-inset-top, 0px)); }
