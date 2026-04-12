@@ -1,0 +1,37 @@
+---
+layout: default
+---
+
+<div class="category-header">
+    <h1>{{ page.title }}</h1>
+    <p class="serif-italic">{{ page.description }}</p>
+</div>
+
+<section class="archive-section">
+    <h3 class="section-label">Chronological Archive</h3>
+    <ul class="post-list">
+        {% assign filtered_posts = "" | split: "" %}
+        {% for cat in page.categories %}
+            {% assign cat_posts = site.categories[cat] %}
+            {% if cat_posts %}
+                {% assign filtered_posts = filtered_posts | concat: cat_posts %}
+            {% endif %}
+        {% endfor %}
+        
+        {% assign unique_posts = filtered_posts | uniq | sort: "date" | reverse %}
+
+        {% if unique_posts.size > 0 %}
+            {% for post in unique_posts %}
+            <li class="post-item">
+                <span class="post-date">{{ post.date | date: "%b %d, %Y" }}</span>
+                <a href="{{ post.url | relative_url }}" class="post-link">{{ post.title }}</a>
+            </li>
+            {% endfor %}
+        {% else %}
+            <li class="post-item">
+                <span class="post-date">--</span>
+                <span class="post-link" style="opacity: 0.5;">No posts in these categories yet. Building in public...</span>
+            </li>
+        {% endif %}
+    </ul>
+</section>

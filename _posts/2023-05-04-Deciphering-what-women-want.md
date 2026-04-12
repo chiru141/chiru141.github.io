@@ -1,7 +1,7 @@
 ---
 title: "A Question of Stability: The Hidden Costs of the Patriarchal Deal"
 layout: post
-categories: [notes, reflection]
+categories: [notes, reflections]
 tags: [patriarchy, questioning]
 excerpt_separator: <!--more-->
 ---
