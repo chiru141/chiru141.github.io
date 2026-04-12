@@ -29,9 +29,26 @@
     <footer>
         <div class="container footer-content">
             <div class="footer-contact">
+                <div class="footer-social-icons">
+                  <a href="https://twitter.com/chiru141997" class="footer-icon-link" aria-label="Twitter">
+                    <i class="fab fa-twitter"></i>
+                  </a>
+                  <a href="https://www.linkedin.com/in/ruchi141/" class="footer-icon-link" aria-label="LinkedIn">
+                    <i class="fab fa-linkedin-in"></i>
+                  </a>
+                  <a href="mailto:{{ site.email }}" class="footer-icon-link" aria-label="Email">
+                    <i class="fas fa-envelope"></i>
+                  </a>
+                </div>
+                <p class="footer-note">Thoughts? I'd love to hear them.</p>
+              </div>
+         <!--  <div class="footer-contact">
                 <a href="mailto:{{ site.email }}" class="footer-link">Reply via Email</a>
                 <p class="footer-note">Thoughts? I'd love to hear them.</p>
-            </div>
+                - {title: Twitter, icon: twitter, url: "https://twitter.com/chiru141997"} 
+                - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/ruchi141/"}
+                - {title: Mail, icon: envelope, url: "mailto:r.agarwal141@yahoo.in"}
+            </div> -->
             <div class="footer-meta">
                 <span class="copyright">© {{ "now" | date: "%Y" }} • Built with Intent</span>
             </div>
