@@ -10,15 +10,15 @@ This doesn't mean I only paint when I am feeling sad, but that most of the times
 
 ---
 
-### Krishna ki Chetavani from Rashmirathi
+## Krishna ki Chetavani from Rashmirathi
 ![Painting 7: Krishna ki Chetavani from Rashmirathi](/assets/Painting_Pictures/Rashmirathi.jpg)
-*[September 2024]*
+<small>*[September 2024]*</small>
 
 ---
 
-### Ganesha (Zentangle Art)
+## Ganesha (Zentangle Art)
 ![Painting 6: Ganesha (Zentangle Art)](/assets/Painting_Pictures/PXL_20240602_052935925.jpg)
-*[June 2024]*
+<small>*[June 2024]*</small>
 
 Even though, I thoroughly immersed myself in the process of bringing this piece to life, I cannot deny the occasional nagging I felt to stop "wasting" my time and do something productive or rather useful. 
 
@@ -26,9 +26,9 @@ Am i wasting my time, pursuing hobbies that don't seem particularly "useful" at 
 
 ---
 
-### Hanuman
+## Hanuman
 ![Painting 5: Hanuman](/assets/Painting_Pictures/PXL_20240602_151804775~2.jpg)
-*[May 2024]*
+<small>*[May 2024]*</small>
 
 Back to basics - sketching with a pencil. 
 
@@ -36,23 +36,23 @@ For quite some time, I enjoyed the process of pencil sketching - mostly because 
 
 ---
 
-### Krishna
+## Krishna
 ![Painting 4: Krishna](/assets/Painting_Pictures/PXL_20240310_112623616_exported_1705_1710074062089.jpg)
-*[March 2024]* - This is the longest I have ever took to finish any painting. 
+<small>*[March 2024]* - This is the longest I have ever took to finish any painting.</small>
 
 Like you cannot put the extra color that you squeezed out of the tube on the canvas just cause you don't want to waste the paint, you cannot cry about the hard work/ effort that's going to "waste" cause you didn't see any direct results. it is about the painting you are creating and not what you had to put in. work with whatever you have. 
 
 ---
 
-### Ganesha
+## Ganesha
 ![Painting 3: Ganesha](/assets/Painting_Pictures/Ganesha.jpg)
 
 ---
 
-### Meera
+## Meera
 ![Painting 2: Meera](/assets/Painting_Pictures/Mira.jpg)
 
 ---
 
-### Goku
+## Goku
 ![Painting 1: Goku](/assets/Goku.jpg)
