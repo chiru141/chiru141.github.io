@@ -124,7 +124,7 @@ body {
     font-family: ui-monospace, monospace;
     font-size: 0.75rem;
     color: var(--muted);
-    width: 3.5rem;
+    width: 6rem; /* Increased width to prevent overflow */
     flex-shrink: 0;
 }
 
