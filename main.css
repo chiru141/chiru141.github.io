@@ -228,6 +228,23 @@ footer {
     gap: 0.5rem;
 }
 
+.footer-social-icons {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+}
+
+.footer-icon-link {
+    color: var(--ink);
+    font-size: 1.25rem;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.footer-icon-link:hover {
+    color: var(--muted);
+}
+
 .footer-link {
     font-size: 0.75rem;
     text-transform: uppercase;
