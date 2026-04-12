@@ -1,6 +1,6 @@
 ---
 title: "Art & Culture"
-permalink: "/Paintings/"
+permalink: "/Paintings"
 layout: page
 ---
 
