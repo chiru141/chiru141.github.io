@@ -283,3 +283,8 @@ footer {
         text-align: left;
     }
 }
+
+.spacer {
+    display: block;
+    height: 40px; /* Adjust this number to make the gap larger or smaller */
+  }
