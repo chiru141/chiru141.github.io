@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A question to Google - Is Two-phase cooling technology more expensive than Vizag's need for drinking water?"
+title: "A Question to Google - Is Two-phase cooling technology more expensive than Vizag's need for drinking water?"
 date: 2026-04-18
 categories: [growth, policy]
 tags: [datacentres, water, cooling tech]
@@ -67,12 +67,14 @@ Not viable? (Maintaining thousands of servers with these alternative option is a
 
 
 **References**
-The Climate Brief. (2024). How Google built a data center in record time (without gas).
 
-Thomas, M. (2026). Cleanview Report: Google to Use Natural Gas to Power Massive Data Center in Texas.
 
-The Hindu. (2025). Google data centres pose threat to residents of Vizag in form of environment, water and electricity crisis: HRF.
+1. The Climate Brief. (2024). How Google built a data center in record time (without gas).
 
-Sheikh, A. (2025). Google’s $1.5 Billion Data Center in Visakhapatnam: Economic Boost or Environmental Burden?
+2. Thomas, M. (2026). Cleanview Report: Google to Use Natural Gas to Power Massive Data Center in Texas.
 
-OCP Specification. (2025). Project Deschutes: Coolant Distribution Unit (CDU) Technical Specifications.
+3. The Hindu. (2025). Google data centres pose threat to residents of Vizag in form of environment, water and electricity crisis: HRF.
+
+4. Sheikh, A. (2025). Google’s $1.5 Billion Data Center in Visakhapatnam: Economic Boost or Environmental Burden?
+
+5. OCP Specification. (2025). Project Deschutes: Coolant Distribution Unit (CDU) Technical Specifications.
