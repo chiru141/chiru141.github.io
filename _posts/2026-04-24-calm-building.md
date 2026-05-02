@@ -9,8 +9,8 @@ excerpt_separator: <!--more-->
 
 I attended an Investor-founder event for Deep tech and AI in manufacturing in Surat, Gujarat last weekend. The event was organized by Dholakia ventures and was filled with family offices, local builders and VCs from firms like Prime Ventures and Sparrow Capital. They gathered to explore the start-up ecosystem in a "tier-2" city. 
 
-During the Investor panel, a familiar question came up - what are some key things you look for when deciding to invest in the start-ups. The answer was usual; the space, the growth potential but ultimately the founder (founding team). The VCs explained that they try to answer questions like -
-Can they trust founders to take the right calls? Can the founders ask difficult questions? Can VCs see themselves trusting the founders when the times get tough? Do the founders have a sense of urgency? Will this founder respond to me at 11 pm in the night if I ask him/her a question. This VC said if the founder does not have a sense of urgency, if (s)he is not building till 1 am in the night, (s)he is not serious about it. 
+During the Investor panel, a familiar question came up: **what are some key things you look for when deciding to invest in the start-ups?** The answer was usual; the space, the growth potential but ultimately the founder (founding team). The VCs explained that they try to answer questions like -
+Can they trust founders to take the right calls? Can the founders ask difficult questions? Can VCs see themselves trusting the founders when the times get tough? Do the founders have a sense of urgency? Will this founder respond to me at 11 pm in the night if I ask him/her a question. **This VC said if the founder does not have a sense of urgency, if (s)he is not building till 1 am in the night, (s)he is not serious about it.** 
 
 That made me pause. 
 
@@ -18,7 +18,7 @@ Is that true? Is sense of urgency in someone a key criteria for success? Is work
 
 The VCs are using 11 PM or 1 AM benchmark as a proxy for "obsession," but I think that they might be confusing activity with progress. 
 
-I think there is a difference between urgency and speed.
+**I think there is a difference between urgency and speed.**
 I think, being "urgent" is a psychological state. One can be urgent while spinning their wheels in the same spot. Speed or rather velocity, is different. it's calm. One can move incredibly fast while remaining quiet. 
 
 I understand that "urgency" often stems from the Fund Cycle—VCs have a limited window to show returns to their own investors, so they project that timeline onto the founder’s life. 
@@ -42,6 +42,6 @@ why are we so obsessed with being urgent? Do we really need to be urgent? Is it 
 
 Slow days, taking time to read, think, converse and build is worth more than always trying to be on the treadmill (trying to run) cause that leads to a truly unique breakthrough. 
 
-I understand that's not always the goal. I am talking about the ideal state above; but we all know - Most of the times, there are other priorities, a need to win (rather than a desire) and earn a living which makes it all urgent because if one is not urgent, there's probably no earning or living. (Well, starting to believe pie gets bigger, something is there for everyone, a lot of problems to solve, but basically doing it until you have the energy, until you are relevant makes it all urgent); but living entire lives in that state of vibration is something I am unsure about.
+I understand that's not always the goal. I am talking about the ideal state above; but we all know - Most of the times, there are other priorities, a need to win (rather than a desire) and earn a living which makes it all urgent because if one is not urgent, there's probably no earning or living. (Well, starting to believe pie gets bigger, something is there for everyone, a lot of problems to solve, but basically doing it until you have the energy, until you are relevant makes it all urgent); but living entire lives in that state of hysteria is something I am unsure about.
 
-So, be urgent when you need to be but also understand that there is profound wisdom in the occasional delay. As the poet says, *Kabhi kabhi train chutna bhi acha hai, shayad kisi ka milna likha ho*(Sometimes missing the train is good; perhaps a chance meeting was written in the stars). 
+So, be urgent when you need to be but also understand that there is profound wisdom in the occasional delay. As the poet says, *Kabhi kabhi train chutna bhi acha hai, shayad kisi ka milna likha ho* (Sometimes missing the train is good; perhaps a chance meeting was written in the stars). 
