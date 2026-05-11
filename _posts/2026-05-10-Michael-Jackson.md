@@ -41,8 +41,8 @@ While I will still stay on my quest to find the answers to my *greatness* questi
 To honour the legend, and give wind to my inspiration, I would like to end with the following lines
 
 **If the world is seeing you shine outside,** 
-**It's cause you are burning inside**
-**Will you ever know if it was worth it?**
+**It's cause you are burning inside.** 
+**Will you ever know if it was worth it?** 
 **Probably not, especially not until you have done it** *(you need to add the music yourself :P)*
 
 
