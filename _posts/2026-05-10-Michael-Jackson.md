@@ -7,6 +7,8 @@ tags: [Michael Jackson, obsession, Movies]
 excerpt_separator: <!--more-->
 ---
 
+![MJ](assets\MJ.jpg)
+
 Watched the movie "Michael" this week. 
 This was the first time I was introduced to his songs and story.
 
@@ -32,7 +34,7 @@ I watched a few interviews where hosts have asked him rude questions, insinuatin
 
 If people thought he was so great and millions expressed their love for him, why did they give him such a hard time? why were they so rude to him? why did he have so many allegations against him? was it intrigue about his looks and greatness, or was it jealousy? or was there something even bigger? 
 
-I heard his speeches on various award shows over the years. It made me feel like he kept crying for help and people couldn't hear him and he knew that. His giggle was suggestive of his wisdom and a reflective of his humility. He didn't stop trying.
+I heard his speeches on various award shows over the years. It made me feel like he kept crying for help and people couldn't hear him and he knew that. His giggle was suggestive of his wisdom and reflective of his humility. He didn't stop trying.
 
 While I cannot put a definitive finger of what led him to great music, *(ofcourse there are technical reasons for it, but those are results; not the reason)*, he was great because he knew music was only a medium. He cared about things far beyond himself and his music.
 
