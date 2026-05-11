@@ -7,7 +7,7 @@ tags: [Michael Jackson, obsession, Movies]
 excerpt_separator: <!--more-->
 ---
 
-![MJ](assets\MJ.jpg)
+![MJ](/assets/MJ.jpg)
 
 Watched the movie "Michael" this week. 
 This was the first time I was introduced to his songs and story.
