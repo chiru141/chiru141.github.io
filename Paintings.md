@@ -10,6 +10,17 @@ This doesn't mean I only paint when I am feeling sad, but that most of the times
 
 ---
 
+## Divine Love by Suman Dongre
+![Painting 8: Divine Love by Suman Dongre](/assets/Painting_Pictures/SumanDongreKrishna.jpg)
+<small>*[December 2025]*</small>
+
+On 30th August, 2025, I visited Jehangir Art Gallery in Mumbai. It was one of my firsts visits to the Gallery, and an unplanned one.
+
+Suman Dongre was one of the artists displaying their work in that Gallery that week, and I was left mesmerized by them. I couldn't stop but admire Dongre's paintings, the texture, the color, the patterns and the subject. 
+
+Hindu divine and mythological subjects have long been my top choice for expression. This painting was an effort to try Dongre's style.   
+
+
 ## Krishna ki Chetavani from Rashmirathi
 ![Painting 7: Krishna ki Chetavani from Rashmirathi](/assets/Painting_Pictures/Rashmirathi.jpg)
 <small>*[September 2024]*</small>
