@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Following the Fibre that binds our fast fashion apparel"
+title: "Following the Fibre that binds our Fast Fashion Apparel"
 date: 2026-05-17
 categories: [Tech]
 tags: [Textile, Recycling]
