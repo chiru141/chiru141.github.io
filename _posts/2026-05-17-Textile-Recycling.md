@@ -7,11 +7,12 @@ tags: [Textile, Recycling]
 excerpt_separator: <!--more-->
 ---
 
+
 ~116 million tonnes of fiber is produced globally every year, with polyester accounting for roughly 67% of the total volume [1,2]. Most of our fast fashion apparel and activewear is made of these fibers: cotton, polyester, and elastane blends.
 
-At the same time, the world generates nearly ~92 million tonnes of apparel waste annually. Of all used clothing globally, only ~25% is formally collected. The remaining 75% goes directly into household trash bins, informal dumpsites, or municipal landfills. And from the fraction that is formally collected, merely 13% is resold or donated, while less than 1% is recycled into new clothing through true closed-loop systems [2]. The remainder is downcycled into industrial rags, open-loop shredded products, incinerated, or sent to landfills.
+At the same time, the world generates nearly **~92 million tonnes of apparel waste annually**. Of all used clothing globally, **only ~25% is formally collected**. The remaining 75% goes directly into household trash bins, informal dumpsites, or municipal landfills. And from the fraction that is formally collected, merely 13% is resold or donated, while **less than 1% is recycled into new clothing through true closed-loop systems** [2]. The remainder is downcycled into industrial rags, open-loop shredded products, incinerated, or sent to landfills.
 
-India alone generates over 7.07 million tonnes of textile waste every year, representing roughly 8% of global apparel waste [4]. Official data indicates imported post-consumer waste accounts for only ~7% of the total textile waste processed in India; over 93% is domestically generated [5]. Even with India’s reuse culture, we are generating an enormous amount of waste. 6.3 million tonnes of textile (\~90% of 7.07 Mn) would be equivalent to roughly 31.5 Billion shirts, which is about 22 shirts per person annually.
+**India alone generates over 7.07 million tonnes of textile waste every year**, representing roughly 8% of global apparel waste [4]. Official data indicates imported post-consumer waste accounts for only ~7% of the total textile waste processed in India; over **93% is domestically generated** [5]. Even with India’s reuse culture, we are generating an enormous amount of waste. 6.3 million tonnes of textile (\~90% of 7.07 Mn) would be equivalent to **roughly 31.5 Billion shirts, which is about 22 shirts per person annually.**
 
 According to the Ministry of Textiles India (“Mapping of Textile Waste Value Chain in India”), our national textile waste stream is composed of:
 - 42% Pre-Consumer Waste: Mill drops, spinning scrap, and cutting-room floor trimmings generated during manufacturing.
@@ -23,9 +24,9 @@ Today, the dominant recycling pathway remains mechanical recycling.
 
 Mechanical recycling uses industrial tearing and shredding systems to convert garments back into fibrous material. However, this process severely shortens fiber length and reduces material quality. During shredding, nearly 15–20% of the material is lost as dust, lint, and unusable residue, leaving only ~800–850 grams of usable pulled fiber from every kilogram of textile waste processed.
 
-The resulting low-grade recycled fiber can rarely be used for apparel manufacturing. Instead, it is converted into industrial wiping cloths, mattress stuffing, insulation material, or low-cost “shoddy” blankets. These mechanically recycled fibers generally trade at only ₹35–₹55 per kg [6], while industrial rags sell at approximately ₹40–₹60 per kg before eventually reaching landfills or incinerators after use. If a garment were 100% pure cotton, it would naturally biodegrade. But the introduction of synthetic polyester and spandex webs turns them into permanent geological artifacts.
+The resulting low-grade recycled fiber can rarely be used for apparel manufacturing. Instead, it is converted into industrial wiping cloths, mattress stuffing, insulation material, or low-cost “shoddy” blankets. These mechanically recycled fibers generally trade at only ₹35–₹55 per kg [6], while industrial rags sell at approximately ₹40–₹60 per kg before eventually reaching landfills or incinerators after use. If a garment were 100% pure cotton, it would naturally biodegrade. But the introduction of synthetic polyester and spandex webs turns them into permanent geological waste.
 
-It seems, then, the core problem is not collection. The core problem is blended textiles.
+It seems, then, **the core problem is not collection. The core problem is blended textiles.**
 
 Modern apparel has been engineered primarily for consumer performance - stretch, durability, softness, wrinkle resistance, moisture management, and low manufacturing cost - rather than end-of-life recyclability. *This makes practical sense. I prefer my blended, sweat-resistant t-shirt in the gym over a pure cotton one, but I’ll easily choose a soft cotton shirt over a synthetic one when grabbing coffee with friends. Each blend has its own purpose.*
 
@@ -33,7 +34,8 @@ As a result, garments today frequently contain blended material compositions suc
 
 which leads us to explore other recycling options… (in the next post)
 
-PS: Textile Lifecycle:
+*PS: Textile Lifecycle*
+
 ![Textile Value Chain](/assets/Textile-Lifecycle.png)
 
 
