@@ -10,6 +10,17 @@ This doesn't mean I only paint when I am feeling sad, but that most of the times
 
 ---
 
+## Meditiating Hanumat
+![Painting 9: Meditiating Hanumat](/assets/Painting_Pictures/Hanuman-painted.jpeg)
+<small>*[May 2026]*</small>
+
+1 hour to Sketch 
+4 hours for Base Painting
+8 hours for the details
+
+If I hadn't sketched the outline before beginning, if I didn't know what I wanted to paint, How would I have finished the painting? 
+I needed to have atleast a loose plan to know where I was going, even though it took atleast exponentially more time to fill in the details.
+
 ## Divine Love by Suman Dongre
 ![Painting 8: Divine Love by Suman Dongre](/assets/Painting_Pictures/SumanDongreKrishna.jpg)
 <small>*[December 2025]*</small>
@@ -33,7 +44,7 @@ Hindu divine and mythological subjects have long been my top choice for expressi
 
 Even though, I thoroughly immersed myself in the process of bringing this piece to life, I cannot deny the occasional nagging I felt to stop "wasting" my time and do something productive or rather useful. 
 
-Am i wasting my time, pursuing hobbies that don't seem particularly "useful" at the moment?
+Am I wasting my time, pursuing hobbies that don't seem particularly "useful" at the moment?
 
 ---
 
