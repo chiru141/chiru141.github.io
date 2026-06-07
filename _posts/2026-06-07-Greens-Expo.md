@@ -3,7 +3,7 @@ layout: post
 title: "Inside the Greens Expo: Why India’s Circular Economy Isn't a Tech Problem"
 date: 2026-06-07
 categories: [tech, policy]
-tags: [Circular Economy, Greens Expo 2026, Waste Management, EPR Compliance, Carbon Markets India, Solar Waste Management, Reverse Logistics, Deep Tech Recycling, Unorganized Sector]
+tags: [Circular Economy, Greens Expo 2026, Waste Management, Solar Waste Management, Deep Tech Recycling]
 excerpt_separator: <!--more-->
 ---
 
