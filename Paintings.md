@@ -14,8 +14,10 @@ This doesn't mean I only paint when I am feeling sad, but that most of the times
 ![Painting 9: Meditiating Hanumat](/assets/Painting_Pictures/Hanuman-painted.jpeg)
 <small>*[May 2026]*</small>
 
-1 hour to Sketch 
+1 hour to Sketch
+
 4 hours for Base Painting
+
 8 hours for the details
 
 If I hadn't sketched the outline before beginning, if I didn't know what I wanted to paint, How would I have finished the painting? 
