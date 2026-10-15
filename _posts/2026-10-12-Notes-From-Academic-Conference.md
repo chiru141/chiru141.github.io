@@ -35,5 +35,7 @@ In my next piece, I will dive deeper into whether India should double down on ad
 
 References:
 [1] China's GDP over the years: https://www.macrotrends.net/global-metrics/countries/chn/china/gdp-gross-domestic-product
+
 [2] India's GDP over the years: https://www.macrotrends.net/global-metrics/countries/ind/india/gdp-gross-domestic-product
+
 [3] Comparison of China and India's market returns: https://www.forbesindia.com/article/take-one-big-story-of-the-day/how-china-has-dragged-down-investor-returns-over-the-past-decade/81179/1 
