@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Notes & Reflections on Power, Trade, and India’s Manufacturing Future"
-date: 2026-10-12 23:30:00 +0530
-categories: [notes, reflections]
-tags: [AI, culture, reflection, productivity]
+date: 2026-10-12
+categories: [Tech, Policy]
+tags: [Power, Trade, Manufacturing, Public Policy]
 ---
 
 As part of the GCPP course at Takshashila, I attended a virtual Academic Conference over the weekend. The sessions spanned four core themes: Geopolitics, Geoeconomics, Technology, and Domestic Reforms.
