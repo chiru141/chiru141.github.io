@@ -2,7 +2,7 @@
 layout: post
 title: "Notes & Reflections on Power, Trade, and India’s Manufacturing Future"
 date: 2026-10-12
-categories: [Tech, Policy]
+categories: [tech, policy]
 tags: [Power, Trade, Manufacturing, Public Policy]
 ---
 
