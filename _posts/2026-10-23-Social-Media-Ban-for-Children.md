@@ -31,19 +31,23 @@ Also unlike the much known addictive and potentially harmful effects, there are 
 
 So, then what is the alternative of a blanked ban on Social Media? 
 
-In the research conducted by MIT Technology[4], they found that parents and kids both want smarter, more nuanced policies to protect children, families, and their rights. Rather than locking kids out entirely, effective policy could take the form of:
+In the research conducted by MIT Technology [4], they found that parents and kids both want smarter, more nuanced policies to protect children, families, and their rights. Rather than locking kids out entirely, effective policy could take the form of:
+
 1) **Safety-by-design mandates** for strict platform defaults to address infinite scrolling, auto-play loops and behavioral engagement platforms.
+
 2) **Flexible Parental Tools** to control content and access. 
+
 3) **Stronger limits on data collection** and targeted advertising directed at Children
+
 4) As proposed by *The Conversation*, [3] complementing online safety with **digital literacy and healthy screen-free time.** 
 
-To conclude, Social media for children under 16 **should NOT be banned, but access must be regulated through strategic system design.**
+As India discusses the idea to regulate social media and tries to balance policy enforcements, right to expression, data security concerns and parental control along with child safety and future, I hope it takes into account the learnings from other countries and looks beyond a blanket ban, and advocates **regulated social media access through strategic system design.**
 
 References:
 
 [1] [https://theprint.in/tech/age-restrictions-for-social-media-not-enough-to-protect-children-from-online-harm-nalsar-igap-report/3073486/](https://theprint.in/tech/age-restrictions-for-social-media-not-enough-to-protect-children-from-online-harm-nalsar-igap-report/3073486/)
 
-[2] [https://nalsar.ac.in/news/nalsar-and-igap-publish-joint-report-on-age-appropriate-digital-pathways-in-india/](https://nalsar.ac.in/news/nalsar-and-igap-publish-joint-report-on-age-appropriate-digital-pathways-in-india/) | [https://www.igap.in/online-child-safety-india/](https://www.igap.in/online-child-safety-india/)
+[2] [https://www.igap.in/online-child-safety-india/](https://www.igap.in/online-child-safety-india/)
 
 [3] [https://theconversation.com/can-social-media-bans-protect-young-peoples-mental-health-early-research-suggests-that-bans-arent-the-answer-291629](https://theconversation.com/can-social-media-bans-protect-young-peoples-mental-health-early-research-suggests-that-bans-arent-the-answer-291629)
 
